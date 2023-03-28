@@ -3,7 +3,7 @@ def maximo(*valor:int):
     n1 = valor[0]
     n2 = valor[1]
 
-    valor = n2
+    valor = n2 
     if(n1 > n2):
        valor = n1   
 
